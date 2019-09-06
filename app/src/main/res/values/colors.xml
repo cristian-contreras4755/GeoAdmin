@@ -3,4 +3,12 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="colorblanco">#ffffff</color>
+    <color name="colorPlomo">#9E9E9C</color>
+
+
+    <!-- COLOR PARA LAS CAJA DE TEXTO LOGIN-->
+    <color name="colorPlomoclaro">  #E5E5E5</color>
+
+
 </resources>
